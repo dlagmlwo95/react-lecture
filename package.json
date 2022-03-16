@@ -18,5 +18,8 @@
   "homepage": "https://github.com/dlagmlwo95/react-lecture#readme",
   "dependencies": {
     "typescript": "^4.6.2"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.21"
   }
 }
